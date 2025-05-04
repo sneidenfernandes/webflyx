@@ -1,1 +1,3 @@
 #contents
+
+:add_classics
